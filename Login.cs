@@ -40,9 +40,10 @@ namespace LoginSystem
                 Console.WriteLine("Wrong username!");
             }
 
-            // In my opinion, the error messages for the two usuccesful
-            // login attempts
-            // should be the same for security reasons.
+            // In my opinion, the error messages for the two usuccesful login attempts.
+            // The messages should be the same in both cases. 
+           
         }
     }
 }
+
