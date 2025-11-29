@@ -28,7 +28,6 @@ class Program
 
     static void SortDescending(int[] arr)
     {
-        // really basic sorting (swap biggest to front)
         for (int i = 0; i < arr.Length; i++)
         {
             for (int j = i + 1; j < arr.Length; j++)
@@ -43,3 +42,4 @@ class Program
         }
     }
 }
+
